@@ -1,0 +1,39 @@
+body{
+  margin: 20px;
+}
+p::first-letter{
+  font-size: 140%;  
+}
+
+p::first-line {
+  font-weight: bold;
+  color: blue;
+  font-family: Arial;
+}
+
+::selection{
+  background-color: chartreuse;
+}
+
+p::after{
+  content: "....";
+  display: inline-table;
+}
+
+.first-letter{
+  color: red;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.highlight#products{
+  color: deeppink;
+}
+
+#products{
+  color: green;
+}
+
+.featured #products {
+  color:rebeccapurple
+}
