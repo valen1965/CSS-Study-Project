@@ -1,0 +1,15 @@
+p{
+  color: dodgerblue;
+  border: 1px solid black;
+}
+
+strong{
+  color: initial;
+  border:inherit;
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: hsl(61, 40%, 40%);
+}

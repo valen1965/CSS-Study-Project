@@ -1,0 +1,17 @@
+p{
+  color: dodgerblue;
+  border: 1px solid black;
+  }
+
+strong{
+  color: initial;
+  border:inherit;
+}
+
+.box{
+  width: 600px;
+  height: 200px;
+  background: rgb(144,212,72);
+background: linear-gradient(45deg, rgba(144,212,72,1) 0%, 
+rgba(65,152,181,1) 61%, rgba(93,56,34,1) 100%);
+}
