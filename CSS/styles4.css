@@ -11,5 +11,6 @@ strong{
 .box{
   width: 200px;
   height: 200px;
-  background-color: hsl(61, 40%, 40%);
+  background: dodgerblue;
+  border: 10px solid royalblue;
 }
